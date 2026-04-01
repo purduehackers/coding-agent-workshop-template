@@ -1,5 +1,7 @@
 # Coding Agent Workshop
 
+<img width="4832" height="1642" alt="image" src="https://github.com/user-attachments/assets/93cf9de6-cbcd-4cd1-87e7-fa35c0c91991" />
+
 Build a coding agent from scratch using the AI SDK, Bun, and OpenAI.
 
 By the end of this workshop, you'll have an AI agent that can list, read, and edit files on your computer.
